@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhav</h1>
-<h3 align="center">Developer from Nepal</h3>
+<!-- <h3 align="center">Developer from Nepal</h3> -->
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
